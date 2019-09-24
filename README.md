@@ -1,6 +1,6 @@
-# Stembit-IR
+# StemBit
 
-Stembit IR extension for Stembit
+This is makecode extension for Stem Bit by SB Components
 
 ## TODO
 
