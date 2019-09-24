@@ -4,7 +4,8 @@
     "description": "This is makecode extension for Stem Bit by SB Components",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:Microsoft/pxt-neopixel"
+        "neopixel": "github:Microsoft/pxt-neopixel",
+        "Stembit-IR": "https://github.com/sbcshop/pxt-stembit-IR"
     },
     "files": [
         "README.md",
